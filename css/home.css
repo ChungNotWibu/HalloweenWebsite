@@ -1,0 +1,22 @@
+.ContainerHome{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    width: 85%;
+    height: 80%;
+    padding: 3.5%;
+    box-shadow: 20px;
+    background-color: rgb(78, 78, 78);
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 2px solid #333;
+    opacity: 0.97;
+    color: rgb(192, 192, 192);
+}
+
+
+.ContainerHome:hover{
+    background-image: url(pichover/gifhome.gif);
+    background-size: cover;
+    opacity: 1;
+}

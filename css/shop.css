@@ -1,0 +1,54 @@
+.ContainerShop {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    width: 85%;
+    height: 80%;
+    padding: 3.5%;
+    box-shadow: 20px;
+    background-color: rgb(78, 78, 78);
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 2px solid #333;
+    opacity: 0.97;
+    color: rgb(192, 192, 192);
+
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    display: inline-table;
+
+    text-align: center;
+    font-family: arial;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+
+#linkShop {
+    text-decoration: none;
+    color: red
+}

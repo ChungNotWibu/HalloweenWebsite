@@ -1,0 +1,50 @@
+body{
+    background-image: url(pic/Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+.HappyHalloween{
+width: 90%;
+padding-left: 22%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.imghh{
+width: 70%;
+}
+
+#google_translate_element{
+    text-emphasis: none;
+    text-align: center;
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(100, 100, 100);
+    border-radius: 15px;
+    opacity: 0.9;
+    color: rgb(255, 180, 110);
+    border: 2px orange solid;
+}
+
+#google_translate_element:hover{
+    background-image: url(https://acegif.com/wp-content/uploads/halloween-gif-animated-81.gif);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+
+
+.goog-te-combo{
+    background-color:  rgb(32, 32, 32);
+    color: rgb(255, 175, 27);
+    font-family: serif;
+    
+}
+
+
+
